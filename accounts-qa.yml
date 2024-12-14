@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: "Welcome to Manojkragy accounts related Qualitative Analysis Application Programming Interfaces "
+  message: "Welcome to Manojkragy accounts related Qualitative Analysis Application Programming Interfaces (API)"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@MANOJKRAGY.com"
