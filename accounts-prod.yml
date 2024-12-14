@@ -9,7 +9,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@manojkragy.com"
+    email: "{cipher}7ca43151882e7df4eb00aac9f9925f288403f0939e92d963b1d2f0d4a320bb24985617783e63ef7d07b478a3473a29ec"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
