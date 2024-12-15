@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to Manojkragy cards related local APIs "
+  message: "Welcome to Manojkragy cards related local APIs webhook "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@manojkragy.com"
