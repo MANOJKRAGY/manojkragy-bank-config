@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Manojkragy cards related Production APIs webhook"
+  message: "Welcome to Manojkragy cards related Production APIs webhook docker"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@manojkragy.com"
