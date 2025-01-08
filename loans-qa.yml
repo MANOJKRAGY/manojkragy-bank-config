@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Manojkragy loans related QA APIs "
+  message: "Welcome to Manojkragy loans related Qualitative Analysis Application Programming Interfaces (API) webhook"
   contactDetails:
     name: "John Doe - Developer"
     email: "manojkragy@gmail.com"

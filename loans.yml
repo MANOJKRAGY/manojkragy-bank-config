@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to Manojkragy loans related local APIs "
+  message: "Welcome to Manojkragy loans related local APIs webhook"
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@manojkragy.com"
