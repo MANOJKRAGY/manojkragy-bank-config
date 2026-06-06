@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to Manojkragy accounts related Qualitative Analysis Application Programming Interfaces (API) webhook"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@MANOJKRAGY.com"
+    email: "{cipher}a77278c67f9c831a37d40938a7a0ebb63101440468f0524c30d652ebf9ef07f767d368545c837f4ce3cc9d7c8e87135f"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
